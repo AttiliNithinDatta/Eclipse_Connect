@@ -13,7 +13,7 @@ class AppTest2 {
 	}
 	@Test
 	void testSub() {
-		assertEquals(1, cse.sub(5, 5));
+		assertEquals(0, cse.sub(5, 5));
 	}
 
 }
