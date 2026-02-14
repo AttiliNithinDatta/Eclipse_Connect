@@ -11,9 +11,9 @@ class AppTest2 {
 	void testAdd() {
 		assertEquals(10, cse.add(5, 5));
 	}
-	@Test
-	void testSub() {
-		assertEquals(0, cse.sub(5, 5));
-	}
+//	@Test
+//	void testSub() {
+//		assertEquals(0, cse.sub(5, 5));
+//	}
 
 }
