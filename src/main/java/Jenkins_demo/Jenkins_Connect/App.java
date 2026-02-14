@@ -5,6 +5,6 @@ package Jenkins_demo.Jenkins_Connect;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Welcome to Jenkins");
     }
 }
