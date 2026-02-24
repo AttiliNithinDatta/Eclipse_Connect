@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class AppTest2 {
+class CseRocksTest {
 
 	CseRocks cse = new CseRocks();
 	@Test
@@ -15,5 +15,4 @@ class AppTest2 {
 	void testSub() {
 		assertEquals(0, cse.sub(5, 5));
 	}
-
 }
